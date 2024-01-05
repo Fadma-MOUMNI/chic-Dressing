@@ -1,0 +1,162 @@
+2024-01-05T16:38:02+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(175, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('175')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T16:38:05+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(176, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('176')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T16:38:07+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(834, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('834')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T16:38:17+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(856, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('856')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:47+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(921, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('921')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:50+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(922, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('922')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:51+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(933, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('933')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:53+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(940, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('940')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:54+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(949, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('949')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:55+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(951, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('951')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:57+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(953, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('953')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:12:59+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(954, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('954')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:13:02+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(955, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('955')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:13:05+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(956, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('956')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:13:24+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(957, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('957')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:13:26+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(958, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('958')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:13:28+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(959, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('959')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+
+2024-01-05T19:13:31+00:00 CRITICAL Uncaught Error: Call to undefined function bulk_image_resizer\imagecreatefromwebp() in /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php:116
+Stack trace:
+#0 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-facade.php(29): bulk_image_resizer\Bir_optimize_functions::optimize(960, 1920, 1080, 82, true)
+#1 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-loader.php(110): bulk_image_resizer\Bir_facade::process_image('960')
+#2 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(324): bulk_image_resizer\Bir_loader->next_bulk('')
+#3 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Us dans /Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/plugins/bulk-image-resizer/includes/class-bir-optimize-function.php à la ligne 116
+

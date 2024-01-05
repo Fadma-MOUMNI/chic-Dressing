@@ -1,0 +1,1 @@
+2024/01/05 17:36:18 [error] 6284#0: *327 directory index of "/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/cache/ HTTP/1.1", host: "localhost:10013"
