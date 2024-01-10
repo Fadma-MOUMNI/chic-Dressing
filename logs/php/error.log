@@ -293,3 +293,19 @@ Stack trace:
 [05-Jan-2024 20:42:43 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: L’évènement planifié n’existe pas., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
 [05-Jan-2024 20:42:52 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: L’évènement planifié n’existe pas., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
 [05-Jan-2024 21:52:54 UTC] Cron reschedule event error for hook: ewww_image_optimizer_relative_migration, Error code: invalid_schedule, Error message: L’évènement planifié n’existe pas., Data: {"schedule":"ewwwio_relative_migration_interval","args":[],"interval":300}
+[06-Jan-2024 23:00:25 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/stop_preload.txt
+[06-Jan-2024 23:00:25 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_post_tag.txt
+[06-Jan-2024 23:00:25 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_category.txt
+[08-Jan-2024 15:07:28 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/stop_preload.txt
+[08-Jan-2024 15:07:28 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_post_tag.txt
+[08-Jan-2024 15:07:28 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_category.txt
+[09-Jan-2024 08:04:17 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/stop_preload.txt
+[09-Jan-2024 08:04:17 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_post_tag.txt
+[09-Jan-2024 08:04:17 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_category.txt
+[09-Jan-2024 15:07:48 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: La liste des évènements planifiés n’a pas pu être sauvegardée., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[09-Jan-2024 21:34:35 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/stop_preload.txt
+[09-Jan-2024 21:34:35 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_post_tag.txt
+[09-Jan-2024 21:34:35 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_category.txt
+[10-Jan-2024 10:40:13 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/stop_preload.txt
+[10-Jan-2024 10:40:13 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_post_tag.txt
+[10-Jan-2024 10:40:13 UTC] File does not exist or is outside restricted basedir. input:/Users/fadmamoumni/Local Sites/chic-dressing/app/public/wp-content/cache/taxonomy_category.txt
